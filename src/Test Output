@@ -1,0 +1,165 @@
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+1
+Vehicle Inventory
+Make & Model, Year, Price
+Honda Accord;2020;$21000.0
+Chevrolet Camaro;2020;$26000.0
+BMW 330i;2020;$50000.0
+Honda Accord;2020;$20000.0
+Nissan Maxima;2019;$23000.0
+Tesla Model Y;2019;$50000.0
+Toyota Camry;2018;$25000.0
+Volkswagen Beatle;2017;$20000.0
+Porsche 911;2017;$120000.0
+Mercedes Benz M100;2016;$40000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+2
+Vehicle make: Tesla
+Vehicle model: Model S
+No such vehicle is found.
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+2
+Vehicle make: Tesla
+Vehicle model: Model Y
+Tesla Model Y;2019;$50000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+2
+Vehicle make: Honda
+Vehicle model: Accord
+Honda Accord;2020;$21000.0
+Honda Accord;2020;$20000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+2
+Vehicle make: Honda
+Vehicle model:
+Honda Accord;2020;$21000.0
+Honda Accord;2020;$20000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+3
+Enter minimum price: $0
+Enter maximum price: $10
+No vehicles found within that price range.
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+3
+Enter minimum price: $20000
+Enter maximum price: $20000
+Honda Accord;2020;$20000.0
+Volkswagen Beatle;2017;$20000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+3
+Enter minimum price: $40000
+Enter maximum price: $41000
+Mercedes Benz M100;2016;$40000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+3
+Enter minimum price: $0
+Enter maximum price: $100000
+Honda Accord;2020;$21000.0
+Chevrolet Camaro;2020;$26000.0
+BMW 330i;2020;$50000.0
+Honda Accord;2020;$20000.0
+Nissan Maxima;2019;$23000.0
+Tesla Model Y;2019;$50000.0
+Toyota Camry;2018;$25000.0
+Volkswagen Beatle;2017;$20000.0
+Mercedes Benz M100;2016;$40000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+4
+Enter vehicle make: Toyota
+Enter vehicle model: Camry
+Enter vehicle year: 2017
+No similar vehicles.
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+4
+Enter vehicle make: Toyota
+Enter vehicle model: Camry
+Enter vehicle year: 2018
+Toyota Camry;2018;$25000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+4
+Enter vehicle make: Honda
+Enter vehicle model: Accord
+Enter vehicle year: 2020
+Honda Accord;2020;$21000.0
+Honda Accord;2020;$20000.0
+MENU
+1. View vehicle inventory
+2. Search by make and model
+3. Search by price
+4. Search similar vehicles
+5. Quit
+Enter your choice:
+5
+Thanks for using Foothill Car Dealers at Los Altos
